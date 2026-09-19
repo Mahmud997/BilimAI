@@ -1,0 +1,20 @@
+{
+  "project": "BilimAI Pro MAX",
+  "version": "4.0",
+  "type": "GitHub Pages static app",
+  "entry": "index.html",
+  "features": [
+    "ENT",
+    "school admission",
+    "olympiads",
+    "career/grants",
+    "AI tutor",
+    "Firebase Auth",
+    "Firestore results",
+    "Excel import",
+    "analytics",
+    "backup/restore",
+    "question bank",
+    "dark theme"
+  ]
+}
